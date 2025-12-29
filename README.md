@@ -11,7 +11,9 @@
 
 ## 1. Objectifs <a name='objectifs'>
 
-L’objectif de ce projet est d’analyser le lien entre les infrastructures présentes dans les communes françaises et leur orientation politique. Plus précisément, il s’agit d’étudier dans quelle mesure l’accès aux infrastructures sportives, de loisirs ou culturelles est associé aux scores de La France Insoumise et du Rassemblement National lors de l’élection présidentielle de 2022.
+L’objectif de ce projet est d’analyser le lien entre les infrastructures présentes dans les communes françaises et leur orientation politique. Plus précisément, il s’agit d’étudier dans quelle mesure l’accès aux infrastructures sportives, de loisirs ou culturelles est associé au score de Mme Le Pen (Rassemblement National) lors de l’élection présidentielle de 2022. Nous avons également fait quelques statistiques descriptives sur les résultats de M. Mélenchon (La France Insoumise) afin d'avoir un point de comparaison.
+
+Nous essaierons ainsi d'apporter des éléments de réponse à la question suivante : dans quelle mesure l'accès aux infrastructures de culture, de loisir et de sport est-il corrélé au vote pour Mme Le Pen ?
 
 ## 2. Données <a name='donnees'>
 
